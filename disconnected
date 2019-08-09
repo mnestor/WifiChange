@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# make sure viscosity is not trying to connect
+osascript -e 'tell application "Viscosity" to disconnect "Home"'
