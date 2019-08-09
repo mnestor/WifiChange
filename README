@@ -5,3 +5,4 @@ Create files in the connect dir that are the name of the SSID you wish to run sc
 The file names should be the lowercase version of the SSID with spaces replaced with _
 eg. "This Really Cool WIFI" you create the file "this_really_cool_wifi"
 
+If you have a default.noscript then that executes when you don't have a matching script for the current SSID
