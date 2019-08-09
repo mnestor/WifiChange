@@ -1,0 +1,7 @@
+Modify the plist to set the location of the wifichange.sh script
+
+Create files in the connect dir that are the name of the SSID you wish to run scripts on when you connect.
+
+The file names should be the lowercase version of the SSID with spaces replaced with _
+eg. "This Really Cool WIFI" you create the file "this_really_cool_wifi"
+
